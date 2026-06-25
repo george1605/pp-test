@@ -1,0 +1,6 @@
+{
+    "https://httpbin.org/get": {
+        "timestamp": 1777904415.4195108,
+        "response": "{\n  \"args\": {}, \n  \"headers\": {\n    \"Accept\": \"*/*\", \n    \"Accept-Encoding\": \"gzip, deflate\", \n    \"Host\": \"httpbin.org\", \n    \"User-Agent\": \"python-requests/2.32.5\", \n    \"X-Amzn-Trace-Id\": \"Root=1-69f8ab21-434c5ba6447e110b3c291219\"\n  }, \n  \"origin\": \"86.125.182.77\", \n  \"url\": \"https://httpbin.org/get\"\n}\n"
+    }
+}
